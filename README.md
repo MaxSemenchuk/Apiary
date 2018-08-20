@@ -110,3 +110,5 @@ Since all organization on the platform are built on aragon, the default token us
 
 By leveraging bonding curves, we provide an incentive for patrons and contributors to support projects at their earliest stages while ensuring that early stage projects are kept accountable throughout their full lifecycle by releasing funds gradually over time. Patrons can use the bonding curve as a source of guaranteed liquidity even for projects that would be too small to otherwise get listed on an exchange.
 
+By Luke Duncan
+
