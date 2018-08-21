@@ -10,6 +10,8 @@ The initiator in such case may be not the person in charge or most responsible�
 
 [Patreon](http://www.patreon.com/) is a highly successful service for supporting the creators with $12M monthly payouts for over 100k or creators. With that Patreon has some issues with [censorship](http://www.openlettertopatreon.com/) and [high pledge fees](https://www.reddit.com/r/patreon/comments/7i8pwa/new_pledge_fee_discussion/). Not saying that it’s easily solved, though there’s a place for similar services, like [Stake Tree](https://staketree.com/). So a potential organization with more than 1 creator can do a responsible crowdfunding. It can be a podcast, youtube show, book, research etc.
 
+* [https://www.ryhope.network/](https://www.ryhope.network/)
+
 ## Communities organizations \(e.g. game communities\)
 
 Finally the existent communities can understand a need for some of the work needed, e.g. game communities. There could be a request for a community management, pr & growth or something like championship organization.
@@ -26,4 +28,6 @@ From [https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-
 
 1. Finance organizations/mutual funds can use this to raise capital and then reinvest that capital elsewhere, providing transparency on where you money is being invested.
 2. Nonprofits could also use something like this to be transparent about the way they raise/use funds. Usually when you donate to a cause you have no idea what the organization did with the money, but with this you can actually know where the money ended up, which is pretty cool.
+
+
 
