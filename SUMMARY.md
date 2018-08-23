@@ -9,4 +9,5 @@
   * [0.3 Market Maker + Bonding Curve](development-plan/0-3.md)
   * [0.4 Advanced terms of crowdfunding](development-plan/0-4.md)
   * [0.5 Curation market](development-plan/0-5.md)
+* [Team & Roles](team-and-roles.md)
 
