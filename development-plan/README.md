@@ -2,9 +2,9 @@
 
 ## Team / Roles
 
-* Product Management \(incl. marketing & design\) – Max
-* Software Engineer – Kirill
-* QA Engineer – Stas
+* Product Management \(incl. marketing & design\) – Max \(50%\)
+* Software Engineer – Kirill \(50%\)
+* QA Engineer – Stas \(30%\)
 
 ### Advisors
 
