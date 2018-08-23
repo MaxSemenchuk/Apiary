@@ -1,6 +1,8 @@
 # Create crowdfunding smart contracts in Aragon
 
-? how do we treat initial token minting that we have in Aragon ?
+## Permissions
+
+Initial token minting will be restricted to the Apiary Application.
 
 ## Fundraising app
 
