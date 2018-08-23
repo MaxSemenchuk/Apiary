@@ -2,13 +2,23 @@
 
 ## Team / Roles
 
-* Product Management \(incl. marketing & design\) – Max \(50%\)
-* Software Engineer – Kirill \(50%\)
-* QA Engineer – Stas \(30%\)
+### Product Management
 
-### Advisors
+\(incl. marketing & design\) 
 
-* Luke Duncan, Aragon
+Max \(50%\)
+
+### Software Engineer
+
+Kirill \(50%\)
+
+### QA Engineer
+
+Stas \(30%\)
+
+### Advisor
+
+Luke Duncan, Aragon
 
 ## Roadmap
 
