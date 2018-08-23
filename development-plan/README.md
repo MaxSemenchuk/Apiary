@@ -2,7 +2,13 @@
 
 ## Team / Roles
 
+* Product Management \(incl. marketing & design\) – Max
+* Software Engineer – Kirill
+* QA Engineer – Stas
 
+### Advisors
+
+* Luke Duncan, Aragon
 
 ## Roadmap
 
@@ -14,5 +20,9 @@
 | 0.4 |  | Liquidity pool / exchange |
 | 0.5 |  | Curation market \(Talk to Luke\) |
 
+### Development Approach
 
+Agile / Scrum
+
+Public meetings
 
