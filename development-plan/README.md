@@ -20,17 +20,17 @@ Agile / Scrum. 2 weeks sprints: demo report \(public\) / retro / planning
 
 Incl. marketing & design.
 
-Max \(50%\)
+[Max Semenchuk](https://www.linkedin.com/in/maxsemenchuk/) \(part-time\)
 
 ### Software Engineer
 
-Kirill \(50%\)
+[Kirill Kirikov](https://www.linkedin.com/in/kirill-kirikov-96507425/) \(part-time\)
 
 ### QA Engineer
 
-Stas \(30%\)
+[Stas Varetsky](https://www.linkedin.com/in/stanislav-varetsky-987677106/) \(part-time\)
 
 ### Advisor
 
-Luke Duncan, Aragon
+[Luke Duncan](https://www.linkedin.com/in/lukasduncan/), Hive Commons, Aragon
 
