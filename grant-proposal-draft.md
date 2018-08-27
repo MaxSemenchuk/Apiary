@@ -24,7 +24,7 @@ Success reward: Up to $50k in ANT, given out when all deliverables are ready.
 * Estimated average burn rate for completing the deliverables
 * Legal structure to be adopted, if any
 
-### Development timeline
+### Preliminary development timeline
 
 The development timeline will be the following one in regards to each deliverable:
 
