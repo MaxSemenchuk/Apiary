@@ -1,6 +1,6 @@
 # Grant Proposal Draft
 
-## Aragon Nest Proposal: Apiary – Responsible Crowdfunding through the Curation Market
+## Aragon Nest Proposal: Apiary app – Responsible Crowdfunding through the Curation Market
 
 ### Abstract
 
@@ -24,7 +24,7 @@ Success reward: Up to $50k in ANT, given out when all deliverables are ready.
 * Estimated average burn rate for completing the deliverables
 * Legal structure to be adopted, if any
 
-### Preliminary development timeline
+### Development timeline
 
 The development timeline will be the following one in regards to each deliverable:
 
@@ -35,6 +35,7 @@ The development timeline will be the following one in regards to each deliverabl
 | 0.3 | 1 month | Market Maker + Bonding Curve mechanics |
 | 0.4 | 1 month | Advanced terms of crowdfunding |
 | 0.5 | 1 month | Curation market mechanics |
+| 1.0 | 2-3 months | Bounty campaign, auditing and polishing |
 
 ### Development Approach
 
