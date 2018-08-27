@@ -8,8 +8,7 @@ Apiary is a platform for emergent organization built on Aragon. Contributors sta
 
 ### Deliverables
 
-1. Aragon app deployed on the testnet and published to the APM, with the interface to the stakeholders
-2. ~~A set of AragonOS-compatible smart contracts to feed them with multiple tokens, with the contracts burning them afterwards~~
+Aragon app\(s\) deployed on the testnet and published to the APM, with the interface to the stakeholders
 
 ### Grant size
 
