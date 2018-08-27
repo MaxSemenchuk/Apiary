@@ -8,8 +8,8 @@ Apiary is a platform for emergent organization built on Aragon. Contributors sta
 
 ### Deliverables
 
-1. Aragon app deployed on the testnet, with the interface to the stakeholders
-2. A set of AragonOS-compatible smart contracts to feed them with multiple tokens, with the contracts burning them afterwards
+1. Aragon app deployed on the testnet and published to the APM, with the interface to the stakeholders
+2. ~~A set of AragonOS-compatible smart contracts to feed them with multiple tokens, with the contracts burning them afterwards~~
 
 ### Grant size
 
@@ -17,20 +17,13 @@ Funding: Up to $100k in ETH, split into chunks paid out over achieved deliverabl
 
 Success reward: Up to $50k in ANT, given out when all deliverables are ready.
 
-### Application requirements
-
-* Initial specifications and roadmap
-* Details of the team members, alongside with their willingness in terms of implication
-* Estimated average burn rate for completing the deliverables
-* Legal structure to be adopted, if any
-
 ### Development timeline
 
 The development timeline will be the following one in regards to each deliverable:
 
 | Release | Estimated time | Features |
 | :--- | :--- | :--- |
-| 0.1 | 1 month | Crowdfunding app to deploy smart contracts from Aragon |
+| 0.1 | 1 month | Crowdfunding app to create fundraising campaigns through the voting process |
 | 0.2 | 1 month | Tap mechanics + Instant Liquidation |
 | 0.3 | 1 month | Market Maker + Bonding Curve mechanics |
 | 0.4 | 1 month | Advanced terms of crowdfunding |
