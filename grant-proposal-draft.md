@@ -6,10 +6,11 @@
 
 Apiary is a platform for emergent organization built on Aragon. Contributors stake tokens into organizations on the Apiary platform using a bonding curve. Funds held in the bonding curve's reserve pool are released over time into a discretionary pool that the Aragon DAO can use to reward contributors. Splitting funds into reserve and discretionary pools provides smart-contract enforced accountability between project contributors and patrons throughout the lifecycle of a project while simultaneously ensuring sufficient liquidity to support the emergence of a long-tail of micro-organizations.
 
-Read more:
+More details:
 
-* 1
-* 2
+* [Initial proposal by Luke Duncan](https://github.com/1Hive/Apiary)
+* [Topic on Aragon research forum](https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144)
+* [Use cases for Apiary article](https://medium.com/practical-blockchain/use-cases-for-the-aragon-crowdfunding-app-apiary-917377772121)
 
 ### Deliverables
 
@@ -17,8 +18,7 @@ Aragon app\(s\) deployed on the testnet and published to the APM, with the inter
 
 ### Grant size
 
-Funding: Up to $100k in ETH, split into chunks paid out over achieved deliverables.
-
+Funding: Up to $100k in ETH, split into chunks paid out over achieved deliverables.   
 Success reward: Up to $50k in ANT, given out when all deliverables are ready.
 
 ### Development timeline
@@ -32,7 +32,7 @@ The development timeline will be the following one in regards to each deliverabl
 | 0.3 | 1 month | Market Maker + Bonding Curve mechanics |
 | 0.4 | 1 month | Advanced terms of crowdfunding |
 | 0.5 | 1 month | Curation market mechanics |
-| 1.0 | 2-3 months | Bounty campaign, auditing and polishing |
+| 1.0 | 2-3 months | Bug Bounty campaign / auditing and polishing |
 
 ### Development Approach
 
