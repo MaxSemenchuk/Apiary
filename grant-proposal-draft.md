@@ -38,3 +38,7 @@ The development timeline will be the following one in regards to each deliverabl
 
 Agile & Scrum with 2 weeks sprints. Each sprint will finish with the publicly available demo or report. The releases would undergo some kind of security audit with an open bounty campaign in the end for the app on the testnet.
 
+### Design
+
+[https://www.figma.com/file/ZqJYCbSyejYkVvlRfY81qQ/Apiary-0.1](https://www.figma.com/file/ZqJYCbSyejYkVvlRfY81qQ/Apiary-0.1) 
+
