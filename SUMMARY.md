@@ -11,4 +11,5 @@
   * [0.5 Curation market](development-plan/0-5.md)
 * [Team & Roles](team-and-roles.md)
 * [Grant Proposal Draft](grant-proposal-draft.md)
+* [Ideas](ideas.md)
 
