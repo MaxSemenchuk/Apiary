@@ -8,6 +8,8 @@
 | 0.4 | TBA | [Advanced terms of crowdfunding](https://4ire-labs.gitbook.io/apiary/development-plan/0-4) |
 | 0.5 | TBA | [Curation market](https://4ire-labs.gitbook.io/apiary/development-plan/0-5) |
 
+![](../.gitbook/assets/apiary.png)
+
 ## Roadmap
 
 **Release 0.0 \| Oct '18**
@@ -23,14 +25,30 @@
 * Aragon-UI based front-end that allows to create campaigns through Aragon voting process
 
 **Release 0.2 \| Nov '18**  
-[Tap + Instant Liquidation](https://4ire-labs.gitbook.io/apiary/development-plan/0-2)
+Reserve pool & Tap
 
-* Liquidity pool smart contract that will hold money raised from fundrisng campaigns with tap functionality 
-* Tap functionality - % from all funds raised through campaigns which can be withdrawn monthly to Aragon Finance App
-* Instant liquidation functionality - process that can unblock all funds in liquidity pool in critical situation. \(Possibly - another voting mechanism\) 
+* Reserve pool smart contract that will hold money raised from fundrisng campaigns
+* Tap functionality - the minRatio parameter ensures that the Bonding Curve remains a functional source of liquidity for the project.
 
 **Release 0.3 \| Dec '18**  
-[Market Maker + Bonding Curve](https://4ire-labs.gitbook.io/apiary/development-plan/0-3)
+Utility token minting & Bancor pricing formula
+
+* Mint utility token in behalf of investments
+* Develop bonding curve based on Bancor pricing formula
+
+**Release 0.4 \| Jan '19**  
+Instant liquidation & Testnet release
+
+* Instant liquidation functionality - process that can unblock all funds in liquidity pool in critical situation. \(Possibly - another voting mechanism\) 
+
+**Release 0.5 \| Feb  '19**  
+Advanced terms of crowdfunding
+
+**Release 0.6 \|  Mar '19**  
+Advanced terms of crowdfunding
+
+**Release 0.7 \| Apr '19**  
+Curation market
 
 ## Examples
 
