@@ -11,10 +11,11 @@
 ## Kirill Kirikov – Software Engineer
 
 * Founder and partner at [4IRE labs](https://4irelabs.com/) blockchain dev company
-* 13+ years of experience in development \(full-stack, mobile, solidity\) 
+* 13+ years of experience in development \(backend, mobile, solidity, devops\) 
+* Researching blockchain and distributed systems
 * Developed a test Aragon app
 * Commitment: Full time
-* Socials: [Linkedin](https://www.linkedin.com/in/kirill-kirikov-96507425/)
+* Socials: [Linkedin](https://www.linkedin.com/in/kirill-kirikov-96507425/), [Github](https://github.com/KiriKiri)
 
 ## Stas Varetsky – QA Engineer
 
