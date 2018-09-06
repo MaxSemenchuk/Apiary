@@ -11,7 +11,6 @@
   * [0.5 Curation market](development-plan/0-5.md)
   * [Long-shot Ideas](development-plan/ideas.md)
 * [Grant Proposal Draft](grant-proposal-draft.md)
-* [Grant Funding Request](grant-funding-request/README.md)
-  * [Team](grant-funding-request/team-and-roles.md)
-  * [Roadmap](grant-funding-request/roadmap.md)
+* [Team](team-and-roles.md)
+* [Grant Funding Request](grant-funding-request.md)
 
