@@ -6,7 +6,7 @@
 * Researching DAO and distributed governance since 2017
 * Co-organizer at [dgov conference](https://dgov.earth/)
 * Commitment: Part-time
-* Socials: [Twitter](https://twitter.com/maxsemenchuk), [Linkedin](https://www.linkedin.com/in/maxsemenchuk/)
+* Socials: [Twitter](https://twitter.com/maxsemenchuk), [Linkedin](https://www.linkedin.com/in/maxsemenchuk/), [Medium](https://medium.com/@maxsemenchuk)
 
 ## Kirill Kirikov – Software Engineer
 

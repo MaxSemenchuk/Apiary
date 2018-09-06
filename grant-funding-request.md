@@ -13,9 +13,10 @@
 
 **Burn rate**: $15k/month
 
-Development so far 5.5 mo. x $15k / mo. = $82.5
+Version 0.1-0.5 development: 5.5 mo. x $15k = $82.5k  
+Release and Bounties: $17.5k
 
-**Legal structure**: Giveth or Aragon DAO \(?\)
+**Legal structure**: N/A \(Giveth or Aragon DAO are possible\)
 
 Team and roadmap
 

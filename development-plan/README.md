@@ -32,13 +32,23 @@ Funds which have moved from the bonding curve’s reserve pool to the organizati
 Utility token minting & Bancor pricing formula
 
 * Mint utility token in behalf of investments
-* Develop bonding curve based on Bancor pricing formula
+* Develop bonding curve mechanism based on Bancor pricing formula
+
+### Bonding curve
+
+Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Depending on the algorithm used markets can be made to be more or less sensitive to price volatility. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool, when they do the bonding curve mints corresponding tokens for the user based on the the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.
+
+[More on Bonding Curve](https://dgov.gitbook.io/report/radical-markets/curation-markets-and-bonding-curve)
 
 ## **Release 0.4 \| 4 weeks**
 
 Instant liquidation & Testnet release
 
 * Instant liquidation functionality - process that can unblock all funds in liquidity pool in critical situation. \(Possibly - another voting mechanism\) 
+
+### Instant Liquidation
+
+In some cases a majority of the token holders will all want to sell at once, this can occur if the project encounters an issue that makes it clear that it should not continue or if key members of the team decide to leave the project. Rather than rushing to exit via the bonding curve, the community can vote to liquidate the reserve pool returning funds to the bonding curves token holders on a pro-rata basis.
 
 ## **Release 0.5 \| 6 weeks**
 
