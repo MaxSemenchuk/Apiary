@@ -12,5 +12,5 @@
   * [Long-shot Ideas](development-plan/ideas.md)
 * [Grant Proposal Draft](grant-proposal-draft.md)
 * [Team](team-and-roles.md)
-* [Grant Funding Request](grant-funding-request.md)
+* [Apiary app – Responsible Crowdfunding through the Curation Market](grant-funding-request.md)
 

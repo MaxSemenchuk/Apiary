@@ -50,11 +50,7 @@ Audit / Bug bounty on the testnet
 
 $17.5k for bounties and mainnet release
 
-### 
-
-### 
-
-### Development Approach
+## Development Approach
 
 Agile / Scrum. 2 weeks sprints: demo report \(public\) / retro / planning.
 
