@@ -20,10 +20,6 @@ So the initiator can open up a DAO for maintaining the community and start crowd
 
 ## Ideas from SoMe feedback
 
-{% embed data="{\"url\":\"https://twitter.com/urstrulymishra/status/1030815945604747265\",\"type\":\"rich\",\"title\":\"Naveen Mishra on Twitter\",\"description\":\"I have long said DAOs and Open Collective should have the same mission.Especially if you want to DAO a socially conscious org.First usecase would be what open collective is doing— Naveen Mishra \(@urstrulymishra\) August 18, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\" data-conversation=\\\"none\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">I have long said DAOs and Open Collective should have the same mission.<br>Especially if you want to DAO a socially conscious org.<br>First usecase would be what open collective is doing</p>&mdash; Naveen Mishra \(@urstrulymishra\) <a href=\\\"https://twitter.com/urstrulymishra/status/1030815945604747265?ref\_src=twsrc%5Etfw\\\">August 18, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":null}}" %}
-
-{% embed data="{\"url\":\"https://opencollective.com/discover\",\"type\":\"link\",\"title\":\"Discover\",\"icon\":{\"type\":\"icon\",\"url\":\"https://opencollective.com/public/images/favicon.ico.png\",\"aspectRatio\":0}}" %}
-
 From [https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144/6](https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144/6)
 
 1. Finance organizations/mutual funds can use this to raise capital and then reinvest that capital elsewhere, providing transparency on where you money is being invested.
