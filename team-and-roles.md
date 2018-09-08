@@ -1,4 +1,4 @@
-# Team
+# About us
 
 ## Max Semenchuk – Product Management, UXUI
 
