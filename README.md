@@ -1,35 +1,18 @@
-# Apiary Project Proposal Draft
+# Apiary – Responsible Crowdfunding through the Curation Market
 
-Aragon Crowdfunding App, to enable more responsible crowdfunding with DAOs
+## **Abstract**
 
-{% hint style="info" %}
-**Join the conversation!**
+1Hive's Apiary is a platform for emergent organization built on Aragon. Contributors stake tokens into organizations on the Apiary platform using a bonding curve. Funds held in the bonding curve's reserve pool are released over time into a discretionary pool that the Aragon DAO can use to reward contributors. Splitting funds into reserve and discretionary pools provides smart-contract enforced accountability between project contributors and patrons throughout the lifecycle of a project while simultaneously ensuring sufficient liquidity to support the emergence of a long-tail of micro-organizations.
 
-Chat: [https://t.me/joinchat/E9cyAxB\_6FdwNvJ7Mh7wDQ](https://t.me/joinchat/E9cyAxB_6FdwNvJ7Mh7wDQ)
+### Important links:
 
-Thread: [https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144](https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144)
-{% endhint %}
+* [Aragon Nest Proposal](https://github.com/aragon/nest/issues/78)
+* [Aragon Funds Request](https://github.com/aragon/nest/pull/88)
+* [Roadmap and Specifications](https://4ire-labs.gitbook.io/apiary/~/edit/drafts/-LLsqqwMXpIlqN0oyNiF/development-plan)
+* [Design in Figma](https://www.figma.com/file/ZqJYCbSyejYkVvlRfY81qQ/Apiary?node-id=0%3A1)
 
-**Problems**
+### Join the conversation
 
-* Costly ICO infrastructure
-* Misaligned incentives between founders and investors
-* Threat of scam
-
-**Solution**
-
-* Motivate funds and individuals to prefer DAO structures for funding
-* Allow easy creation of the company and launch of the crowdsale \(maybe start with lower amounts like $10-100k, not millions\)
-* Allow setting up the transparent crowdsale terms and lockups
-
-**Features**
-
-* Crowdsale stages setup
-* Token freeze
-* Tap on spendings
-* Milestone-Based Lockups
-
-Design: [https://www.figma.com/file/ZqJYCbSyejYkVvlRfY81qQ/Apiary?node-id=0%3A1](https://www.figma.com/file/ZqJYCbSyejYkVvlRfY81qQ)
-
-
+* [Aragon Research forum thread](https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144)
+* [Telegram chat](https://t.me/joinchat/E9cyAxB_6FdwNvJ7Mh7wDQ)
 
