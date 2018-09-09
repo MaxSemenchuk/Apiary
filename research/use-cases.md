@@ -1,5 +1,7 @@
 # Use Cases
 
+Open source software ecosystems, news media finance and urban public projects
+
 ## Impact investment funds \(like Aragon Nest or Open Collective\)
 
 This is the case where we’d like to do an efficient distribution of several funds and investors to a distributed network. If it’s impractical to deal with a analog registered company and the funds are allocated for a long term, we need a mechanism for keeping the initiatives live and sustainable. So somebody can initialise a purpose-driven initiative \(e.g. develop open-source software or maintain the Ethereum documentation\) and open funds allocation for the cause.
